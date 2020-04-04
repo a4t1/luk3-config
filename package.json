@@ -1,6 +1,6 @@
 {
   "name": "@a4t1/luk3-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Configurazione per luk3",
   "main": "config.js",
   "scripts": {
