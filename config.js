@@ -29,6 +29,26 @@ module.exports = {
           hash: '1c9fc9ab656ef22546072d369b08ebec',
         }
       ]
+    },
+    {
+      name: 'mappack-01',
+      targets: ['main'],
+      pak3ts: [
+        {
+          name: 'A4T1-mappack-01.pk3',
+          hash: '48c1b751ff077a5f06b26c7ee66bd029',
+        }
+      ]
+    },
+    {
+      name: 'mappack-02',
+      targets: ['main'],
+      pak3ts: [
+        {
+          name: 'A4T1-mappack-02.pk3',
+          hash: '9088d39d4438bffe8cf41095e492bc96',
+        }
+      ]
     }
   ]
 }
