@@ -56,7 +56,7 @@ module.exports = {
       pak3ts: [
         {
           name: 'A4T1-mappack-03.pk3',
-          hash: '311181aefd15648cd9d91da75a66fcf2',
+          hash: 'cf8add5c72eb6fe8acf0795cea3c379c',
         }
       ]
     }
